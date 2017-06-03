@@ -1,0 +1,8 @@
+[package]
+name = "carto"
+version = "0.1.0"
+authors = ["Sam Gibson <sam@ifdown.net>"]
+
+[dependencies]
+rand = "0.3"
+image = "*"
